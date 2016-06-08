@@ -1,7 +1,7 @@
 # MED7126 Data and Multimedia Journalism on the MA Online Journalism at Birmingham City University
 
-Module Leader
-Paul Bradshaw (paul.bradshaw@bcu.ac.uk) 0121 331 5367
+Module Leader: Paul Bradshaw (paul.bradshaw@bcu.ac.uk) 0121 331 5367
+
 Twitter.com/paulbradshaw 
 
 Room: P105 
