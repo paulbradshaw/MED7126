@@ -1,10 +1,10 @@
-# MED7126 Data and Multimedia Journalism on the MA Online Journalism at Birmingham City University
+# MED7??? Data Journalism (MA Data Journalism at Birmingham City University)
 
 Module Leader: Paul Bradshaw (paul.bradshaw@bcu.ac.uk) 0121 331 5367
 
 Twitter.com/paulbradshaw 
 
-Room: P105 
+Room: TBC
 
 ## Module Synopsis
 
@@ -14,34 +14,32 @@ Students will be introduced to a range of data and multimedia tools and techniqu
 
 ## Rationale
 
-The Data and Multimedia Journalism module contributes to the overall programme philosophy and aims by enabling students to engage directly in the news process and develop a critical understanding of the possibilities of a particular type of technology in newsgathering, production and distribution. Students will develop a strong sense of their professional development needs, be involved in creating networks of speciality and will demonstrate an action orientated approach.
+Within the context of the increasing use of data within media organisations, Data Journalism aims to facilitate a flexible and adaptable skillset, including the use of ‘computational thinking’ and communities of practice, that provides a basis for students to critically adapt to both new and existing data journalism techniques. The module provides practical skills within a range of conceptual frameworks applicable to the production practice routes of the award. It also provides a basis for the successful completion of the Master’s route project, and introduces potential avenues of practice-based inquiry for routes into PhD progression beyond. 
 
-## Aims
+The module begins by building applied understanding of data journalism techniques and issues, before exploring more specific practices around design, analysis and interactivity. These are closely aligned to the core assignment tasks. A range of newsgathering and storytelling techniques are explored, giving the student the basis for initiating and developing contemporary data journalism projects within a professional context.
 
-1. Demonstrate a critical understanding of new forms of newsgathering, production and distribution
-2. Initiate and develop innovative and experimental approaches to telling stories and engaging users
-3. Identify and develop networks of learning and interest
+These techniques include core media production skills required for developing the basis for a masters level dissertation/ practical project. A mixed methods pedagogical approach is adopted, with lectures combined with hands-on workshops where students are supported in developing and reflecting on their own work within a contemporary context. 
+
+Work in this module links to the different core semester two modules and Work Placement module
+
+##  Learning outcomes
+
+1. Identify, gather and communicate stories based on structured information using data journalism techniques and technologies for an identified audience
+2. Critically evaluate the professional, legal and ethical contexts surrounding data journalism and apply that to a specific project
  
-## Audio and video skills sessions 
-
-If you wish to pursue multimedia skills further you should also attend sessions available from Caroline Officer which have been distributed on the general Moodle including:
-
-* Audio editing and production sessions
-* Video editing and production sessions
-* NTI Future Media sessions - please ask Caroline or NTI for details
-* There are sometimes additional sessions in broadcast skills with Diane Kemp and Bob Calver, and other media - please ask your tutor.
-
 ## Week by week outline 
 
 This module begins with formal classes and becomes more student-driven as it progresses. You will be expected to **listen to class podcasts and screencasts ahead of most sessions**, so that class time is spent more fruitfully in interactive discussion rather than one-way lectures. 
 
 You will also be expected to feed your own experiences into each class - and your own problems and questions - rather than coming to the sessions with nothing to contribute or build on. As independent learners the emphasis is on you to drive your learning forward through conversation rather than accept it passively.
 
-## Week 1: Planning a multimedia data project
+## Week 1: How to think like a data journalist: data literacy and algorithmic thinking
 
-* Workshop: Exploring data, communities of practice
-* Task: joining communities of practice
-* Reading: see Moodle. Also: [Learning in networks](https://onlinejournalismblog.com/2011/04/01/communities-of-practice-teaching-students-to-learn-in-networks/)
+* Workshop: [Introduction to GitHub](https://github.com/paulbradshaw/introtogithub)
+* Task: Fork and edit an FOI request using GitHub. Data journalism critique. 
+* Reading: see Moodle. Also:
+* * Anderson, CW (2012) [Towards a sociology of computational and algorithmic journalism, New Media & Society](http://journals.sagepub.com/doi/abs/10.1177/1461444812465137)
+* * [What is algorithmic thinking? Coursera: Algorithmic Thinking 1](https://www.coursera.org/learn/algorithmic-thinking-1/lecture/X7Wpl/what-is-algorithmic-thinking)
 
 ## Week 2: Getting data: scraping and APIs
 * Workshop: Introduction to OutWit Hub and Open Refine
@@ -86,15 +84,13 @@ You will also be expected to feed your own experiences into each class - and you
 * Independent Study: Creating video
 * Reading: Atton & Hamilton (2008) Ch5: Contemporary Practices of Alternative Journalism
 
-## Week 11:  Project surgery
-* Workshop: students will be expected to present a progress update on their project and identify areas for further development
-* Task: Independent study
-* Reading: 
+## Week 11:  Bots, AI and machine learning
+* Workshop: Creating a basic bot
+* Task: Project work
+* Reading: Woolley et al. [How to Think About Bots, Motherboard, February 23 2016](https://motherboard.vice.com/read/how-to-think-about-bots)
+* * Daly, Liza. [Chatbot Fundamentals: an interactive guide to writing bots in Python, World Writable, March 18 2016](https://apps.worldwritable.com/tutorials/chatbot/ )
 
 ## Final Assessment
 
-There are two elements of assessment for this module
-
-* Communities of Practice (wk 7) 20% Portfolio of blog posts and other contributions to communities of practice. Representing 75 hours’ work, including evaluation. 
-* Specialist Portfolio (wk14) 80% Journalism work in one medium demonstrating depth and exploration. Representing 225 hours’ work and showing significant independent exploration and development, including evaluation.
+TBC
 
