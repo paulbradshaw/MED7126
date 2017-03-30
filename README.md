@@ -38,8 +38,8 @@ You will also be expected to feed your own experiences into each class - and you
 * Workshop: [Introduction to GitHub](https://github.com/paulbradshaw/introtogithub)
 * Task: Fork and edit an FOI request using GitHub. Data journalism critique. 
 * Reading: see Moodle. Also:
-* * Anderson, CW (2012) [Towards a sociology of computational and algorithmic journalism, New Media & Society](http://journals.sagepub.com/doi/abs/10.1177/1461444812465137)
-* * [What is algorithmic thinking? Coursera: Algorithmic Thinking 1](https://www.coursera.org/learn/algorithmic-thinking-1/lecture/X7Wpl/what-is-algorithmic-thinking)
+ * Anderson, CW (2012) [Towards a sociology of computational and algorithmic journalism, New Media & Society](http://journals.sagepub.com/doi/abs/10.1177/1461444812465137)
+ * [What is algorithmic thinking? Coursera: Algorithmic Thinking 1](https://www.coursera.org/learn/algorithmic-thinking-1/lecture/X7Wpl/what-is-algorithmic-thinking)
 
 ## Week 2: Getting data: scraping and APIs
 * Workshop: Introduction to OutWit Hub and Open Refine
@@ -87,8 +87,9 @@ You will also be expected to feed your own experiences into each class - and you
 ## Week 11:  Bots, AI and machine learning
 * Workshop: Creating a basic bot
 * Task: Project work
-* Reading: Woolley et al. [How to Think About Bots, Motherboard, February 23 2016](https://motherboard.vice.com/read/how-to-think-about-bots)
-* * Daly, Liza. [Chatbot Fundamentals: an interactive guide to writing bots in Python, World Writable, March 18 2016](https://apps.worldwritable.com/tutorials/chatbot/ )
+* Reading: see Moodle. Also:
+ * Woolley et al. [How to Think About Bots, Motherboard, February 23 2016](https://motherboard.vice.com/read/how-to-think-about-bots)
+ * Daly, Liza. [Chatbot Fundamentals: an interactive guide to writing bots in Python, World Writable, March 18 2016](https://apps.worldwritable.com/tutorials/chatbot/ )
 
 ## Final Assessment
 
