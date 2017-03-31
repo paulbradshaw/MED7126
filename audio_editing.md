@@ -72,3 +72,30 @@ Low frequencies have much bigger sound waves which travel more easily through so
 
 High frequencies have smaller sound waves. Small speakers do not have enough power to generate the larger sound waves, which is why phones and laptops sound 'tinny'.
 
+## Noise reduction
+
+Capture the frequency of a selection by clicking on:
+
+*Effects > Noise Reduction/Restoration > Noise Print*
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/noiseprint.PNG)
+
+To see what you have just captured, click:
+
+*Effects > Noise Reduction/Restoration > Noise Reduction (process)*
+
+Here you can also change how much it is going to reduce that frequency by.
+
+Make sure you select all the audio before applying - you can do that within this menu by clicking **Select entire file**
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/noisereduction_notes.png)
+
+You can add a fade in or a fade out by going to:
+
+*Effects > Fade In* 
+
+Or:
+
+*Effects > Fade Out*
+
+You can also click and drag the small box in the upper left area of the audio to change the fade.
