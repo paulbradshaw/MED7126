@@ -90,7 +90,9 @@ Make sure you select all the audio before applying - you can do that within this
 
 ![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/noisereduction_notes.png)
 
-You can add a fade in or a fade out by going to:
+## Fading in or out
+
+You might have noise at the start that you want to avoid by adding a fade in or a fade out. You can do this by going to:
 
 *Effects > Fade In* 
 
@@ -99,3 +101,20 @@ Or:
 *Effects > Fade Out*
 
 You can also click and drag the small box in the upper left area of the audio to change the fade.
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/fadein_notes.png)
+
+## Getting rid of clicks
+
+You can get rid of clicks by deleting that section of the audio, or reducing the volume, but there's also the **Automatic click remover**. This works by identifying an unusual noise in the context of other noise in the same selection, so you need to select the section containing both the click and 'normal' noise. Then click:
+
+*Effects > Noise Reduction/Restoration > Automatic Click Remover*
+
+This will bring up a window where you can choose how strict or not the process is. Note that there are presets you can select for 'Heavy' reduction (strict), 'Light' reduction (less strict) or 'Medium'. A strict reduction might be very effective but leave you with audio which sounds too processed, so try a few approaches.
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/autoclickremover_notes.png)
+ 
+
+
+
+
