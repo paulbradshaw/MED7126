@@ -19,17 +19,11 @@ Double-click on a file to see it in the main window:
 
 * Across the top is time
 * Up the side is decibels (volume)
-* Note L and R - you can click on either to turn that channel on or off - quite common if you're recording on a video or camera, where audio might 
+* Note L and R - you can click on either to turn that channel on or off - quite common if you're recording on a video or camera, where audio might only be recorded on one channel: you can copy audio from one channel into the empty one to get stereo.
 
-only be recorded on one channel: you can copy audio from one channel into the empty one to get stereo.
+Number 1.wav is a mono file - you can also convert it to mono by selecting *Edit > Convert sample type* then in the *Channels* section change from Mono to Stereo.
 
-Number 1.wav is a mono file - you can also convert it to mono by selecting *Edit > Convert sample type* then in the *Channels* section change from 
-
-Mono to Stereo.
-
-Press space bar to play the audio: below the waveform you will see the **Levels** box which shows whether the levels are 'peaking' (too high, denoted 
-
-by the red area at the far right), creating clipping or distortion, or too low (in the green).
+Press space bar to play the audio: below the waveform you will see the **Levels** box which shows whether the levels are 'peaking' (too high, denoted by the red area at the far right), creating clipping or distortion, or too low (in the green).
 
 Ho Ho Ho.wav is an example of a file which peaks in the red.
 
@@ -50,6 +44,7 @@ Better to use the **Effects** menu at the top of the screen:
 
 *Effects > Amplitude and Compression > Normalize*
 
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/normalize.PNG)
 
 Normalize at 99%
 
@@ -71,24 +66,13 @@ Click and drag to select a section; double-click to select everything.
 
 # EQ (equalisation) and treble
 
-Each audio includes sounds that resonate at different frequencies. You can isolate a particular frequency and increase or decrease the volume of that 
-
-frequency (leaving other frequencies unaffected). In music this might be turning up the bass, but in journalism you might use this to reduce 
-
-background noise. Select:
+Each audio includes sounds that resonate at different frequencies. You can isolate a particular frequency and increase or decrease the volume of that frequency (leaving other frequencies unaffected). In music this might be turning up the bass, but in journalism you might use this to reduce background noise. Select:
 
 *Effects > Filter and EQ*
 
+You can choose how many bands you're controlling: 10 bands for example will give you 10 controllers to affect different frequencies. Note that loop is here too so you can have sound looping while you change the EQ.
 
-You can choose how many bands you're controlling: 10 bands for example will give you 10 controllers to affect different frequencies. Note that loop 
+Low frequencies have much bigger sound waves which travel more easily through solid objects - this is why when you stand outside a club or pub you hear the bass sounds of the music inside, but not the high ones.
 
-is here too so you can have sound looping while you change the EQ.
-
-Low frequencies have much bigger sound waves which travel more easily through solid objects - this is why when you stand outside a club or pub you 
-
-hear the bass sounds of the music inside, but not the high ones.
-
-High frequencies have smaller sound waves. Small speakers do not have enough power to generate the larger sound waves, which is why phones and 
-
-laptops sound 'tinny'.
+High frequencies have smaller sound waves. Small speakers do not have enough power to generate the larger sound waves, which is why phones and laptops sound 'tinny'.
 
