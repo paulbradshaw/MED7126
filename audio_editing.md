@@ -23,6 +23,8 @@ Double-click on a file to see it in the main window:
 
 Number 1.wav is a mono file - you can also convert it to mono by selecting *Edit > Convert sample type* then in the *Channels* section change from Mono to Stereo.
 
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/mono.PNG)
+
 Press space bar to play the audio: below the waveform you will see the **Levels** box which shows whether the levels are 'peaking' (too high, denoted by the red area at the far right), creating clipping or distortion, or too low (in the green).
 
 Ho Ho Ho.wav is an example of a file which peaks in the red.
@@ -52,15 +54,9 @@ Some software (like Adobe Premiere) treats hitting 0 as peaking; others (like Ad
 
 # The playback controls
 
-The playback buttons (play, go back, go to end, record) are straightforward, but the loop option (toggle on or off) is useful as it will continue to 
+The playback buttons (play, go back, go to end, record) are straightforward, but the loop option (toggle on or off) is useful as it will continue to loop what is selected while you make the changes
 
-loop what is selected while you make the changes
-
-The zoom options include both horizontal and vertical zooms. Avoid the vertical zoom as it will look like the audio is too loud but you've just 
-
-zoomed in. To the far right are also options to automatically zoom to selection, to the out point of the selection, or the in point of the selection 
-
-(where it begins).
+The zoom options include both horizontal and vertical zooms. Avoid the vertical zoom as it will look like the audio is too loud but you've just zoomed in. To the far right are also options to automatically zoom to selection, to the out point of the selection, or the in point of the selection (where it begins).
 
 Click and drag to select a section; double-click to select everything.
 
