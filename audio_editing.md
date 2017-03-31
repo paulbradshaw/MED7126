@@ -31,7 +31,7 @@ Ho Ho Ho.wav is an example of a file which peaks in the red.
 
 If you record your audio in a distorted form, you cannot get rid of that distortion.
 
-# Ways to adjust audio
+## Ways to adjust audio
 
 When you hover over the audio waves (or a selection) you should see a small icon menu appear, called the HUD (Heads Up Display). The icons are:
 
@@ -52,7 +52,7 @@ Normalize at 99%
 
 Some software (like Adobe Premiere) treats hitting 0 as peaking; others (like Adobe Audition) sees it as not peaking, so avoid 100%.
 
-# The playback controls
+## The playback controls
 
 The playback buttons (play, go back, go to end, record) are straightforward, but the loop option (toggle on or off) is useful as it will continue to loop what is selected while you make the changes
 
@@ -113,8 +113,28 @@ You can get rid of clicks by deleting that section of the audio, or reducing the
 This will bring up a window where you can choose how strict or not the process is. Note that there are presets you can select for 'Heavy' reduction (strict), 'Light' reduction (less strict) or 'Medium'. A strict reduction might be very effective but leave you with audio which sounds too processed, so try a few approaches.
 
 ![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/autoclickremover_notes.png)
- 
 
+[Workshop Tagline.wav](https://github.com/paulbradshaw/MED7126/blob/master/audio/Workshop%20Tagline.wav) is a useful file to work on some of these techniques
 
+## Compression
 
+[TechTeam_intro.mp3](https://github.com/paulbradshaw/MED7126/blob/master/audio/TechTeam_intro.mp3)
 
+Select:
+
+*Effects > Amplitude and Compression > Single-band compressor*
+
+There are lots of presets: chances are one will work for your audio, e.g. Radio leveler, or Voice leveler (even quiet sounds like 's' and 'h' will be made as prominent as louder sounds). You don't always want this levelling, but that's what it does.
+
+Top two faders are most important: 
+
+* Threshold (when do I start changing audio) - look at the graph of the audio to identify where you want to 'cut back' unusually high or low sounds
+* Ratio (hwo strongly do you want to reduce)
+
+For example, if the threshold is -10 and the ratio is 12-to-1, for every 12 decibels above -10 you'll get 1 dB of sound out. The more it goes above, the more severe the compression will be, this preserves the dynamic between different levels.
+
+Other faders include:
+
+* Attack (how quickly do you begin compressing - think of a slight fade in of compression)
+* Release (how quickly do you stop - think of a fade out, in miliseconds)
+* Output gain
