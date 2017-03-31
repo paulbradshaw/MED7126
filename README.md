@@ -78,8 +78,9 @@ You will also be expected to feed your own experiences into each class - and you
 * Task: Independent study
 * Reading: [Bogost, Newsgames Ch3: Infographics](https://docs.google.com/file/d/0B5To6f5Yj1iJNzFhZmExMTUtMTMxZS00Y2ZjLWJmMDUtNTZjMzJlNjNiNzIx/edit?hl=en_GB&authkey=CNK2jqIM); [D3 tutorials](http://alignedleft.com/tutorials/d3/) or your own choice
 
-## Week 9: All-day podcast masterclass
-* Independent Study: Creating podcast
+## Week 9: Audio 
+* Workshop: [audio editing](https://github.com/paulbradshaw/MED7126/blob/master/audio_editing.md)
+* Independent Study: Working on project audio
 * Reading: Mark Luckie (2010) Ch5: Audio
 
 ## Week 10: 2 day video masterclass
