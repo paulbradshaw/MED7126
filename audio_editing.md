@@ -138,3 +138,15 @@ Other faders include:
 * Attack (how quickly do you begin compressing - think of a slight fade in of compression)
 * Release (how quickly do you stop - think of a fade out, in miliseconds)
 * Output gain
+
+## Multitrack editing
+
+Switch from the *Waveform* tab in the upper left area to the *Multitrack* tab. A window will appear asking you to choose settings for your new project.
+
+* **Template**: there are some pre-set options here for different types of projects. For example 'Podcast' is one option, as is a Radio VO (voiceover).
+* **Sample Rate** is how often is it going to take a snapshot of the audio
+* **Bit Depth** is how detailed that snapshot is going to be
+
+Note that the podcast preset has 44100 sample rate and 16 bit depth.
+
+These all affect the file size that will result - but it is always best to edit at a high quality and then consider exporting as a lower quality to optimise file size.
