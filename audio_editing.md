@@ -141,6 +141,8 @@ Other faders include:
 
 ## Multitrack editing
 
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/multitrack_project.PNG)
+
 Switch from the *Waveform* tab in the upper left area to the *Multitrack* tab. A window will appear asking you to choose settings for your new project.
 
 * **Template**: there are some pre-set options here for different types of projects. For example 'Podcast' is one option, as is a Radio VO (voiceover).
@@ -158,6 +160,8 @@ Click and drag from files into tracks to make your package. If the file is a dif
 On the tracks you should see a yellow and a blue line:
 * The yellow line is volume control
 * The blue line is a panning control (from left to right channel)
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/yellow_and_blue_line.PNG)
 
 Note that if you drag clips over each other, yellow lines will appear to indicate the cross fade. These can also be dragged to change the nature of the cross fade.
 
