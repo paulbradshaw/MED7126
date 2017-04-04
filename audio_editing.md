@@ -84,7 +84,7 @@ To see what you have just captured, click:
 
 *Effects > Noise Reduction/Restoration > Noise Reduction (process)*
 
-Here you can also change how much it is going to reduce that frequency by.
+Here you can also change how much it is going to reduce that frequency by changing the settings.
 
 Make sure you select all the audio before applying - you can do that within this menu by clicking **Select entire file**
 
@@ -150,3 +150,53 @@ Switch from the *Waveform* tab in the upper left area to the *Multitrack* tab. A
 Note that the podcast preset has 44100 sample rate and 16 bit depth.
 
 These all affect the file size that will result - but it is always best to edit at a high quality and then consider exporting as a lower quality to optimise file size.
+
+### Compiling multitrack
+
+Click and drag from files into tracks to make your package. If the file is a different sample rate a warning will appear offering to convert it - say 'yes'.
+
+On the tracks you should see a yellow and a blue line:
+* The yellow line is volume control
+* The blue line is a panning control (from left to right channel)
+
+Note that if you drag clips over each other, yellow lines will appear to indicate the cross fade. These can also be dragged to change the nature of the cross fade.
+
+### Editing fades or pans in multitrack
+
+To add fades in or out, click on the yellow line once to create a key frame where the fade should start. Click again at another point to create another where it should stop. Then click and drag to move the lines (volume) between key frames, controlling how much it fades and where.
+
+The same process applies to the blue lines, creating key frames at the points where you want to change the pan, and then dragging the lines between keyframes to change the pan from left to right or vice versa.
+
+This doesn't affect the original sound file so you can use it over and over again with different settings in different contexts.
+
+Changes in the **waveform view**, however (if you double-click on an audio element, or switch back to waveform and amend files there), will be reflected in any projects using that.
+
+To avoid this happening, right-click on a multitrack instance and select *Convert to unique copy* if you want to make a change to the waveform itself without affecting others (this basically creates a duplicate file).
+
+### Mute channels or record directly
+
+To the left of each track you should see three buttons:
+
+* M: mute the channel
+* S: make this channel the *sole* channel playing (muting all others)
+* and R: record directly into that channel.
+
+### Other buttons and controls
+
+The *Magnet* button towards the top of the screen will make clips snap into position parallel with others. This toggles on and off
+
+You can drag start edge or end of clips in or out to trim it.
+
+At the top: the *razor blade* button will chop where you click, to create new clips.
+
+The *History* tab in the bottom left corner shows all the actions you have performed. You can go back through that list to undo particular actions.
+
+*Export to Adobe Premiere Pro* in the multitrack menu will directly export your audio to the video editing package. It is best to edit video first then export audio to Audition to tidy up before exporting back into Premiere. A small thumbnail of video will also appear in the bottom corner so you can see that alongside the audio.
+
+# Saving audio
+
+If you are in multitrack view and select *Save* it will save a **project file**. To save as an audio file that you can publish (such as an mp3 or wav) go to *Export > Multitrack mixdown*.
+
+In waveform view you can *save* to overwrite the existing file(s) or *save as* a new file. You can also choose *Export* to save as a different file type.
+
+Select *Save All* to ensure you save all the changes to all audio files you have made.
