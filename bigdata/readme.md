@@ -23,4 +23,14 @@ In this part you'll learn how.
 
 We'll be working with police crime data
 
-### Combining data
+### Combining data using `cat` or `type`
+
+To combine multiple CSV files you can use the `cat` command (Mac/Linux) or `type` (Windows). You'll [find instructions here](https://github.com/paulbradshaw/commandline/blob/master/joining.md)
+
+## Part 2: Uploading the data to Google Cloud Storage
+
+## Part 3: Adding the data to a project in Google BigQuery
+
+## Part 4: Querying the data using SQL
+
+### Export the results as a CSV
