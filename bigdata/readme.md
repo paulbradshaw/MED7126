@@ -49,9 +49,34 @@ If you want to check how many lines of data are in the file, you can [use `wc` i
 
 *Before* you do this, note that it will take a long time for the process to complete. When I did this on a file with 37 million lines (January 2017), it took around an hour to find out. But that's useful to know because when you see how quickly Google BigQuery conducts the same query, it's quite amazing.
 
-## Part 2: Uploading the data to Google Cloud Storage
+## Part 2: Uploading the data to Google Cloud
+
+There are various ways to work with data in Google Cloud Platform (GCP). These include:
+
+* Google Cloud Datastore
+* Google Cloud SQL
+* Google Cloud Bigtable
+* Google BigQuery
+* Google Cloud Storage
+
+An [overview of the tools](https://cloud.google.com/datastore/docs/concepts/overview?hl=en_US) says:
+
+> "If you need a relational database with full SQL support for an online transaction processing (OLTP) system, consider Google Cloud SQL. If you don’t require support for ACID transactions or if your data is not highly structured, consider Google Cloud Bigtable.
+If you need interactive querying in an online analytical processing (OLAP) system, consider Google BigQuery. If you need to store large immutable blobs, such as large images or movies, consider Google Cloud Storage."
+
+We just need to store a lot of data, so we're using **Google Cloud Storage**
+
+You can access Google Cloud Storage at [https://console.cloud.google.com/storage](https://console.cloud.google.com/storage)
+
+Create a new project by clicking '**Create bucket**' and choose the type of 'storage class' that most fits your use case, and the region closest to where you'll be accessing the data.
+
+Now upload data to your bucket. Click '**Upload files**' and find the file that you want to upload.
+
+If you know how to use command line you can also launch Cloud Shell by clicking the 'shell prompt' button to the right of the search box at the top of the page. [Guidance on using Google Cloud Shell is available here](https://cloud.google.com/shell/docs/quickstart)
 
 ## Part 3: Adding the data to a project in Google BigQuery
+
+
 
 ## Part 4: Querying the data using SQL
 
