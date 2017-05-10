@@ -76,6 +76,17 @@ If you know how to use command line you can also launch Cloud Shell by clicking 
 
 ## Part 3: Adding the data to a project in Google BigQuery
 
+Now that you have the data in Google Cloud Storage, you can query it in [Google BigQuery](https://bigquery.cloud.google.com/welcome). 
+
+You can upload data directly (as [detailed here](https://cloud.google.com/bigquery/quickstart-web-ui#load_data_into_a_table) but there's a 10MB limit on using the BigQuery UI. This is why we began in Cloud Storage and uploaded there first - but for smaller jobs you can avoid that.
+
+Your project from Google Cloud Storage should be visible in the left hand column, or you can create a new project within that column. 
+
+Once created, hover over the project name and click the 'plus' icon to add data to that project. The main window will now display settings for you to do this. In *Location* choose *Google Cloud Storage* and then click *view files* to select the file you uploaded previously.
+
+In the *schema* area it's better to add them manually rather than use 'Automatically detect'. This also allows you to rename fields to be lower case and without spaces etc.
+
+When you've finished with the settings click **Create Table** and 
 
 
 ## Part 4: Querying the data using SQL
