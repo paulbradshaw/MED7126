@@ -30,4 +30,20 @@ One of the options available should be the treemap - it's normally the first opt
 
 ![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/treemapshowme.png)
 
+Now we have a treemap - but it's only showing the top-level category (in this case, 'Platform'). We need to customise it a bit to get a treemap which allows users to see the sub-categories too.
+
 ## Customising the colours
+
+To the left of the chart itself you should see a box titled *Marks* containing buttons for Color, Size, Label, Detail and Tooltip. And underneath those buttons, icons indicating three settings: 
+
+* The 'Size' icon is set by 'SUM(Traffic %)'
+* The 'Color' icon is also set by 'SUM(Traffic %)'
+* The 'Label' icon is set by 'Platform'
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/treemapv1.png)
+
+
+
+![]()
+
+
