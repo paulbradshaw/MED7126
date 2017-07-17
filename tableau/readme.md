@@ -32,7 +32,7 @@ One of the options available should be the treemap - it's normally the first opt
 
 Now we have a treemap - but it's only showing the top-level category (in this case, 'Platform'). We need to customise it a bit to get a treemap which allows users to see the sub-categories too.
 
-## Customising the colours
+## Customising the colours and slices
 
 To the left of the chart itself you should see a box titled *Marks* containing buttons for Color, Size, Label, Detail and Tooltip. And underneath those buttons, icons indicating three settings: 
 
@@ -42,8 +42,28 @@ To the left of the chart itself you should see a box titled *Marks* containing b
 
 ![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/treemapv1.png)
 
+First we need to change it so that the 'Color' is determined by the main category ('Platform'). To do that, click and drag the 'Platform' dimension onto the Color button.
 
+Now, instead of one colour in different shades representing an amount, you should have five colours - one for each category:
 
-![]()
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/treemapv2.png)
+
+We can customise the colour further by clicking on the 'Color' button and clicking *Edit colors...*. This will open up a new window with a list of categories on the left, and a palette on the right. In our case it makes sense to assign relevant colours to each platform: yellow for Snapchat, red for YouTube, and blue for Facebook. I've also chosen grey for 'Other'. If you prefer other shades you can access other palettes using the dropdown menu in the upper right corner. Click 'Apply' to see the results, and 'OK' to apply and leave this window.
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/editcolors.png)
+
+Next, we need to bring in that sub-category ('Category') in. A good place to do this is on the 'Label': because we are already using colour to indicate the platform, we need the label to add that extra information about the source of traffic to that platform.
+
+To do this, click and drag the 'Category' dimension onto the Label button.
+
+Now the area of colour for each platform should now split into further parts based on this new category. In addition, the text labels should reflect that information too.
+
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/treemapv3.png)
+
+## Other customisation
+
+The chart is now pretty much ready. That just leaves the title to customise: at the moment it is automatically taking the name of the sheet, so you can change the title by double-clicking on the sheet tab at the bottom and renaming it. Alternatively you can double-click on the sheet title and replacing it in the window that opens.
+
+You can also customise the Tooltip - for example a % sign needs adding after the percentage figure on each slice. 
 
 
