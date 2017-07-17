@@ -22,12 +22,12 @@ In Tableau Public, connect to the data you've just created, and go to your empty
 
 Click and drag your main category dimension ('Platform') into the *Rows* area at the top. Then do the same with your measure ('Traffic %') so that it looks like this:
 
-![]()
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/treemaprows.png)
 
 Tableau will automatically draw a chart for you - but ignore that. Instead, look to the right hand side where the 'Show me' menu should now be showing which chart types you can use with this combination of data. If it doesn't show, click 'Show me' in the upper right corner.
 
 One of the options available should be the treemap - it's normally the first option four rows down. Click on this to change the chart to a treemap.
 
-![]()
+![](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/treemapshowme.png)
 
 ## Customising the colours
