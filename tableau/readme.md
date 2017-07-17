@@ -16,6 +16,8 @@ The key feature to look for in this data structure is that you should expect to 
 
 Also, make sure that your values only use numbers - don't add percentage symbols, commas or other characters that might lead to it being interpreted as text and mean you have to reclassify the data later.
 
+If you need a dataset to work with, I've [uploaded the Buzzfeed figures here](https://raw.githubusercontent.com/paulbradshaw/MED7126/master/tableau/buzzfeedTreemap.csv) (you'll need to save it to your computer). 
+
 ## Begin creating your chart
 
 In Tableau Public, connect to the data you've just created, and go to your empty worksheet. On the left you should see your category (in this case, 'Platform') and sub category (in this case 'Category') columns in the *Dimensions* area; and underneath that in the *Measures* area, your values (in this case, 'Traffic %').
